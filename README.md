@@ -3,7 +3,7 @@
 A modern and responsive To-Do List application built using HTML, CSS and JavaScript.
 
 ## 🚀 Live Demo
-(Add GitHub Pages link here after deployment)
+https://chitranshchauhan.github.io/ToDo-App/
 
 ## ✨ Features
 
@@ -33,7 +33,7 @@ ToDo-App/
 **Chitransh Chauhan**
 
 - GitHub: https://github.com/Chitranshchauhan
-- Live Project Link:https://chitranshchauhan.github.io/ToDo-App/
+  
 - LinkedIn: https://www.linkedin.com/in/chitransh-chauhan-97307137a/
 
 ⭐ If you like this project, don't forget to star the repository!
